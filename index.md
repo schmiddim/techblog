@@ -1,12 +1,9 @@
-# Hello World - does this work?
+# tasks
 
-the tutorial:
-https://aregsar.com/blog/2019/how-to-customize-your-github-pages-blog-layout-in-five-minutes/
-## Welcome to GitHub Pages
+- @todo find btter layout
+- [tutorial] (https://aregsar.com/blog/2019/how-to-customize-your-github-pages-blog-layout-in-five-minutes/)
 
-You can use the [editor on GitHub](https://github.com/schmiddim/techblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
