@@ -1,5 +1,7 @@
 # Hello World - does this work?
 
+the tutorial:
+https://aregsar.com/blog/2019/how-to-customize-your-github-pages-blog-layout-in-five-minutes/
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/schmiddim/techblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
